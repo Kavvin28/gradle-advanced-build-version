@@ -23,8 +23,8 @@ publishing {
                 }
                 developers {
                     developer {
-                        id = 'moallemi'
-                        name = 'Reza Moallemi'
+                        id = 'kawin'
+                        name = 'kawin'
                     }
                 }
                 scm {
